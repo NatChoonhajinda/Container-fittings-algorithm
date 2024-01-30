@@ -14,6 +14,20 @@
   >- pandas
   >- tqdm
   >- openpyxl
+
+
+# Algorithm
+
+To avoid box overlapping, a box placement simulation has been designed based on the following principles:
+### 1 Separate the box vector into three parts and plot to the space(Start at 0,0,0)
+
+![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/8abbbef9-f7f0-498b-a5cd-c75b66ba25e9)
+### 2 Use three values as the starting point for the next plot
+![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/09e2352b-9f44-453b-9493-5ee02e57e175)
+
+![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/7ca35fc5-2317-4e0f-a9c8-502120dd8289)
 # Usage
+
+
 # Contributing
 # Contact
