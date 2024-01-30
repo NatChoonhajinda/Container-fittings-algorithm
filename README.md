@@ -6,14 +6,14 @@
 # Built With
  - JupyterNotebook
  - Python
-  - matplotlib.pyplot
-  - mpl_toolkits.mplot3d
-  - numpy
-  - copy
-  - random
-  - pandas
-  - tqdm
-  - openpyxl
+  >- matplotlib.pyplot
+  >- mpl_toolkits.mplot3d
+  >- numpy
+  >- copy
+  >- random
+  >- pandas
+  >- tqdm
+  >- openpyxl
 # Usage
 # Contributing
 # Contact
