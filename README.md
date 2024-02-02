@@ -24,10 +24,13 @@ To avoid box overlapping, a box placement simulation has been designed based on 
 ![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/8abbbef9-f7f0-498b-a5cd-c75b66ba25e9)
 ### 2 Use three values as the starting point for the next plot
 ![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/09e2352b-9f44-453b-9493-5ee02e57e175)
-
+### 3 Check and avoid Collision
+![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/b886299a-c8b8-41f3-a0f9-fe9e87bf6d5d)
+![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/c91d420d-d41a-42de-ab7a-a31c883759ce)
+### 4 use this formula as Fitness function
 ![image](https://github.com/NatChoonhajinda/Container-fittings-algorithm/assets/98221086/7ca35fc5-2317-4e0f-a9c8-502120dd8289)
-# Usage
 
 
-# Contributing
-# Contact
+## info
+https://www.canva.com/design/DAF6Z5Phzy4/yrFt4ubSYxxU_c5hvAZELA/edit
+https://docs.google.com/document/d/1Fo3X5QzOdi8AsES76tXsOfC_vKIiyNnDQp66-lCpIFg/edit (More info)
