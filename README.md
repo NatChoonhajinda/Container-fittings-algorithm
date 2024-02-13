@@ -33,4 +33,4 @@ To avoid box overlapping, a box placement simulation has been designed based on 
 
 ## info
 https://www.canva.com/design/DAF6Z5Phzy4/yrFt4ubSYxxU_c5hvAZELA/edit
-https://docs.google.com/document/d/1Fo3X5QzOdi8AsES76tXsOfC_vKIiyNnDQp66-lCpIFg/edit (More info)
+
